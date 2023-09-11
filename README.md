@@ -27,3 +27,63 @@
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
+
+## Project Overview
+
+**TradeMaster EA** is a sophisticated trading strategy automation tool designed to aid traders in making informed decisions. Built with robustness and scalability in mind, it provides a seamless experience for configuring and deploying trading strategies.
+
+## Features
+
+- 📈 **Graph Marking**: Analyze trading data and highlight significant points on the graph.
+- ⏲️ **Dynamic Time Frames**: Easily switch between different time frames for detailed analysis.
+- 💹 **Adjustable Lot Size**: Dynamically adjust the lot size for trading based on strategy requirements.
+- 🚀 **Automated Trade Execution**: Execute trades at optimal times based on user-defined conditions.
+- 🛡️ **Safety Protocols**: Set stop losses and take profit values to protect your investments.
+
+
+## Future Enhancements (To-Do):
+
+- 🌐 **Support for Multiple Brokers**: Integrate with various brokers for wider accessibility.
+- 📅 **Historical Data Analysis**: Evaluate the efficacy of strategies using past data.
+- 📲 **Mobile Support**: Develop a companion mobile app for on-the-go trading insights.
+- 🌍 **Localization**: Support for multiple languages to cater to a global user base.
+
+
+## Requirements
+
+- Python 3.8+
+- [pip](https://pip.pypa.io/en/stable/) for package management
+- [TA-Lib](https://www.ta-lib.org/) for technical analysis functions
+
+
+## Usage Examples
+```from core import main
+main.execute()  # Run the main EA functionality
+```
+
+## Setup and Installation Instructions
+
+1. Clone the repository:  
+    `git clone https://github.com/YourUsername/TradeMaster_EA.git`
+2. Navigate to the project directory:  
+    `cd TradeMaster_EA`
+3. Install the required packages:  
+    `pip install -r requirements.txt`
+4. Run the main.py file:  
+    `python core/main.py`
+
+## Troubleshooting Tips
+
+- Ensure you have the correct Python version installed.
+- Always install the required packages before running the application.
+- Check the logs for detailed error information.
+- Restart your application after making any configuration changes.
+
+
+## Contribution Guidelines
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit: `git commit -m "Detailed commit message"`
+4. Push to your branch: `git push origin feature/your-feature-name`
+5. Create a pull request.
