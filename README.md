@@ -30,8 +30,8 @@
 
 ## 📚 Table of Contents
 
-1. [**Project Overview**](#-project-overview)
-2. [**Features**](#-features)
+1. [Project Overview](#project-overview)
+2. [Features](#features)
     - [**Future Enhancements (To-Do)**](#future-enhancements-to-do)
 3. [**File Structure**](#-file-structure)
 4. [**Requirements**](#-requirements)
