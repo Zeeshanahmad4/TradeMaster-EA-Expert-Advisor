@@ -28,8 +28,6 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-# Create the Table of Contents content
-toc_content = """
 ## 📚 Table of Contents
 
 1. [**Project Overview**](#-project-overview)
