@@ -57,8 +57,18 @@
 
 
 ## Usage Examples
-```from core import main
-main.execute()  # Run the main EA functionality
+```# usage_example.py
+
+from core import main
+
+def run_example():
+    """
+    Demonstrates how to use the TradeMaster EA functionality.
+    """
+    main.execute()  # Run the main EA functionality
+
+if __name__ == "__main__":
+    run_example()
 ```
 
 ## Setup and Installation Instructions
